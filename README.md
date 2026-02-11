@@ -1,1 +1,4 @@
 # odin-landing-page
+
+## Credits
+<a href="https://www.flaticon.com/free-icons/odin" title="odin icons">Odin icons created by Freepik - Flaticon</a>
