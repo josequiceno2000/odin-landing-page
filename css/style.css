@@ -55,6 +55,19 @@ blockquote p {
     font-style: italic;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+footer a {
+    color: #878787;
+    text-decoration: none;
+}
+
 blockquote,
 .citation {
     width: 50%;
@@ -204,3 +217,4 @@ header,
     border: 2px solid white;
     padding: 10px 30px;
 }
+
